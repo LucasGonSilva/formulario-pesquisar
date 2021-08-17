@@ -1,9 +1,9 @@
 <?php
 
 $host = "localhost";
-$user = "admin";
-$pass = "Luc@s180";
-$dbname = "uniaotecnologia";
+$user = "";
+$pass = "";
+$dbname = "";
 $port = 3306;
 
 try {
